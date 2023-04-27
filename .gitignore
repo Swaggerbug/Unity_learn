@@ -1,0 +1,54 @@
+# Ignore system files
+## Mac OS generated file
+/.DS_Store/
+## Windows generated file
+/Thumbs.db/
+
+# Ignore editor files
+## Visual Studio generated folder
+/.vs/
+## Visual Studio generated file
+/*.sln
+## Visual Studio generated file
+/*.csproj
+## MonoDevelop generated file
+/*.userprefs
+## Unity generated file
+/*.unityproj
+
+# Ignore build files
+## Unity generated folder
+/[Oo]bj/
+## Unity generated folder
+/[Bb]uild/
+
+# Ignore Unity generated files
+## Unity generated folder
+/[Ll]ibrary/
+## Unity generated folder
+/[Tt]emp/
+## Unity generated folder
+/[Uu]nityGenerated/
+
+# Ignore log files
+## Log generated file
+/*.log
+## Log generated folder
+/Logs/
+
+# Ignore package files
+## Package generated folder
+/Packages/
+## Package generated folder
+/UserSettings/
+
+# Ignore config files
+## Visual Studio generated file
+/*.vsconfig
+
+# Ignore cache files
+## Cache generated file
+*.cache
+
+# Do not ignore .meta files
+# *.meta # Unity generated file
