@@ -52,3 +52,7 @@
 
 # Do not ignore .meta files
 # *.meta # Unity generated file
+
+
+
+/plastic/
