@@ -10,6 +10,7 @@
 # Ignore editor files
 ## Visual Studio generated folder
 /.vs/
+/.vscode/
 ## Visual Studio generated file
 /*.sln
 ## Visual Studio generated file
